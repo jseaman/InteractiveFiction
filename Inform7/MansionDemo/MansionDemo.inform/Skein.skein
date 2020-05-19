@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x03102C08" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7 for Windows</generator>
+  <activeNode nodeId="node-0x03102C08"/>
+  <item nodeId="node-0x03102C08">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">MansionDemo&#x000A;An Interactive Fiction by JS&#x000A;Release 1 / Serial number 150320 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Outside the Mansion&#x000A;You are outside of a mansion belonging to Ray Jones. This place looks like it was taken from a video game. You can only go North into the house&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+  </item>
+</Skein>

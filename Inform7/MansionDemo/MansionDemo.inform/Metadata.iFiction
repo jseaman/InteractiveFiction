@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>98C346F4-ED64-400E-9EF5-E1071A856F00</ifid>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>MansionDemo</title>
+            <author>JS</author>
+            <headline>An Interactive Fiction</headline>
+            <genre>Fiction</genre>
+            <firstpublished>2020</firstpublished>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2020-05-19</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>6M62</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>6M62</generatorversion>
+            <originated>2020-05-19</originated>
+        </colophon>
+        <glulx>
+            <serial>200519</serial>
+            <release>1</release>
+            <compiler>Inform 7 build 6M62</compiler>
+        </glulx>
+    </story>
+</ifindex>
